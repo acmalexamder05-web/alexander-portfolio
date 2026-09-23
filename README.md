@@ -4,8 +4,9 @@ A professional cybersecurity portfolio showcasing my experience, penetration tes
 
 ## Live Portfolio
 
-[(https://github.com/alexander-cruz-m)](https://github.com/alexander-cruz-m)
-](https://alexander-cruz-m.github.io/alexander-portfolio/)---
+https://alexander-cruz-m.github.io/alexander-portfolio/
+
+---
 
 ## About This Portfolio
 
@@ -30,14 +31,14 @@ The portfolio highlights:
 A sanitized penetration testing case study documenting foundational reconnaissance, enumeration, vulnerability assessment, evidence collection, and security reporting.
 
 Repository:  
-https://github.com/acmalexamder05-web/AEXON-PT-001
+https://github.com/alexander-cruz-m/AEXON-PT-001
 
 ### AEXON-PT-002
 
 A more advanced penetration testing case study focused on structured enumeration, vulnerability research, controlled validation, risk analysis, remediation, and professional reporting.
 
 Repository:  
-https://github.com/acmalexamder05-web/AEXON-PT-002
+https://github.com/alexander-cruz-m/AEXON-PT-002
 
 ### AEXON-PT-003
 
@@ -163,7 +164,7 @@ Expected Graduation: **May 2027**
 https://www.linkedin.com/in/alexander-cruz-m
 
 **GitHub**  
-https://github.com/acmalexamder05-web
+https://github.com/alexander-cruz-m
 
 ---
 
